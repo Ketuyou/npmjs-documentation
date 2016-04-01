@@ -6,3 +6,4 @@ finished: "☆"
 tag: 'getting-started'
 order: '15'
 ---
+标签是语义化版本（semver）用来组织标记不同版本组建的一个补充。
